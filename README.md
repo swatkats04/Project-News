@@ -2,11 +2,13 @@
 Identification of authentic news from fake news using public information.
  
 ## Table of contents
+* [Project Title](#project-title)
 * [General info](#general-info)
 * [Report](#report)
 
 
 ## General info
+
 
 ## Report
 Contains a short summary of various sections in the reasearch article:
