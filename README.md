@@ -2,13 +2,17 @@
  
 ## Table of contents
 * [Project Title](#project-title)
-* [General Information](#general-information)
+* [Scope](#scope)
 * [Report](#report)
 
 ## Project Title
 Identification of authentic news from fake news using public information.
  
-## General info
+## Scope
+- Crawl news feeds from various websites.
+- Segment the news feeds into distinct news entities.
+- Prepare topic model for each entity.
+- Assi
 
 
 ## Report
