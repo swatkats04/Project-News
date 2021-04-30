@@ -2,7 +2,7 @@
 Identification of authentic news from fake news using public information.
  
 ## Table of contents
-* [General info](#general-info)
+* [General info]
 * [Technologies](#technologies)
 * [Setup](#setup)
 
