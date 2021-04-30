@@ -1,12 +1,13 @@
 # Project-News
-Identification of authentic news from fake news using public information.
  
 ## Table of contents
 * [Project Title](#project-title)
-* [General info](#general-info)
+* [General Information](#general-information)
 * [Report](#report)
 
-
+## Project Title
+Identification of authentic news from fake news using public information.
+ 
 ## General info
 
 
