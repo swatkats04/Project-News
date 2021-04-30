@@ -15,8 +15,8 @@ Identification of authentic news from fake news using public information.
 - Assign a confidence score for news authenticity between 0 to 1
  (Note: 0.5 being partially true, 1 being absolutely true and 0 being fake news).
 - Validate using ground truth (from authentic news sources and authorized fake news database)
-- Develope REST interface using Rest Assured test cases.
-- Develope a web-based standalone GUI using pyQT, Flask and Djanago. 
+- Develop REST interface using Rest Assured test cases.
+- Develop a web-based standalone GUI using pyQT, Flask and Djanago. 
 
 
 ## Report
