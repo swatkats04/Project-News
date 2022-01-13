@@ -1,4 +1,4 @@
-# Identification of authentic news from fake news from public information using NLP
+# Fake News Detection
  
 ## Table of contents
 * [Project Title](#project-title)
