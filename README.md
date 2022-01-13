@@ -15,7 +15,5 @@ The goal of the project was to identify authentic news and fake news from public
 - Modeling - I used a deep learning algorithm for fake news detection and compared some neural network architecture.
 
 ## Codes
-The codes related to:
-- EDA
-- Text and Title modeling
+The codes related to EDA, Text and Title modeling
 are present in the Python_Notebook_Codes folder.
