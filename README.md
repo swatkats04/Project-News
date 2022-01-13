@@ -1,22 +1,12 @@
 # Fake News Detection
  
-## Table of contents
-* [Project Title](#project-title)
-* [Scope](#scope)
-* [Report](#report)
-
 ## Project Title
 Identification of authentic news from fake news using public information.
  
-## Scope
-- Crawl news feeds from various websites.
-- Segment the news feeds into distinct news entities.
-- Prepare topic models for each entity.
-- Assign a confidence score for news authenticity between 0 to 1
- (Note: 0.5 being partially true, 1 being absolutely true and 0 being fake news).
-- Validate using ground truth (from authentic news sources and authorized fake news database)
-- Develop REST interface using Rest Assured test cases.
-- Develop a web-based standalone GUI using pyQT, Flask and Djanago. 
+## Dataset
+I used the Kaggle competition open dataset.
+- (https://www.kaggle.com/c/fake-news/overview)
+
 
 
 ## Report
