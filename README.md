@@ -14,4 +14,8 @@ The goal of the project was to identify authentic news and fake news from public
 - Exploratory Data Analysis - I analyzed the columns of the data. Performed text statistics, word frequency, and n-gram analysis. Used Latent Dirichlet Allocation (LDA) model for  topic modeling to compare fake and not fake news.
 - Modeling - I used a deep learning algorithm for fake news detection and compared some neural network architecture.
 
-
+## Codes
+The codes related to:
+- EDA
+- Text and Title modeling
+are present in the Python_Notebook_Codes folder.
