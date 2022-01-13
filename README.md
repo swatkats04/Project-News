@@ -9,8 +9,9 @@ I used the Kaggle competition open dataset.
 
 
 
-## Report
-Contains a short summary of various sections in the reasearch article:
-* Report_1: this is a report on the article 'Fake News Detection on Social Media: A Data Mining Perspective'
-[Link to the pdf](https://www.google.com/url?sa=t&source=web&rct=j&url=http://www.kdd.org/exploration_files/19-1-Article2.pdf&ved=2ahUKEwip-qrIgqHwAhXfxjgGHaWdDiAQFjAFegQIGBAC&usg=AOvVaw1qBWp8YwEpQMV7tgp0Meon)
+## Summary
+The goal of the project was to identify authentic news and fake news from public information using NLP.
+- Exploratory Data Analysis - I analyzed the columns of the data. Performed text statistics, word frequency, and n-gram analysis. Used Latent Dirichlet Allocation (LDA) model for  topic modeling to compare fake and not fake news.
+- Modeling - I used a deep learning algorithm for fake news detection and compared some neural network architecture.
+
 
